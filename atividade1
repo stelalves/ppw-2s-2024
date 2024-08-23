@@ -1,0 +1,7 @@
+var a = 4;
+var b = 20;
+
+console.log(`A soma entre ${a} e ${b} é igual a ${a+b}`);
+console.log(`A multiplicação entre ${a} e ${b} é igual a ${a*b}`);
+console.log(`A subtração entre ${a} e ${b} é igual a ${a-b}`);
+console.log(`A divisão entre ${a} e ${b} é igual a ${a/b}`);
